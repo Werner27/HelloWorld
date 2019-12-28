@@ -13,6 +13,6 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
-        <h1>Hello World Version 1.0.0</h1>
+        <h1>Hello World Version 1.1.0</h1>
     </body>
 </html>
